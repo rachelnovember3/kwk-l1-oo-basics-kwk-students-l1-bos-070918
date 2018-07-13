@@ -11,9 +11,7 @@ class Book
   end
 end
 
-# def turn_page
-#   puts "Flipping the page... wow, you read fast!"
-# end
+
   
 # great_gatsby = Book.new("The Great Gatsby", "F. Scott Fitzgerald", "Fiction", 180)
 # puts great_gatsby.title
