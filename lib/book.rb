@@ -15,9 +15,9 @@ end
 #   puts "Flipping the page... wow, you read fast!"
 # end
   
-great_gatsby = Book.new("The Great Gatsby", "F. Scott Fitzgerald", "Fiction", 180)
-puts great_gatsby.title
-# great_gatsby.author = "F. Scott Fitzgerald"
+# great_gatsby = Book.new("The Great Gatsby", "F. Scott Fitzgerald", "Fiction", 180)
+# puts great_gatsby.title
+# # great_gatsby.author = "F. Scott Fitzgerald"
 # puts great_gatsby.author
 # puts great_gatsby.genre
 # puts great_gatsby.page_count
