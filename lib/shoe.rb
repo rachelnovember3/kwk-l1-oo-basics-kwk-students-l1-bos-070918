@@ -13,7 +13,7 @@ class Shoe
     @color = color
   end
   
-  
+  Shoe.new("Nike", "red")
   
   
 end
