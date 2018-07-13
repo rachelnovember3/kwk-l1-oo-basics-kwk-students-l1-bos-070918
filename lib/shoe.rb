@@ -8,12 +8,9 @@ class Shoe
   def initialize(brand)
     @brand = brand
   end
-  
-  def initialize(color)
-    @color = color
-  end
-  
-  Shoe.new("Nike", "red")
-  
+
   
 end
+
+brand = Shoe.new("Nike")
+  
