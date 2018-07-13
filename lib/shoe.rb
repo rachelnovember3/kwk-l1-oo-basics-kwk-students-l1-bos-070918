@@ -16,4 +16,4 @@ class Shoe
 end
 
 brand = Shoe.new("Nike")
-  
+cobble = new
