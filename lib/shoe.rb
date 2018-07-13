@@ -1,7 +1,7 @@
 # Make your shoe class here!
 
 # class Shoe
-#   attr_reader :
+#   attr_reader : 
   
   
   
@@ -14,7 +14,7 @@
 #   attr_reader :title
 #   attr_accessor :author, :genre, :page_count
   
-#   def initialize(title,author,genre,page_count)
+#   def initialize(title)
 #     @title = title
 #     @author = author
 #     @genre = genre
